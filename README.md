@@ -1,4 +1,4 @@
 # slowhand
 mainly for amateur development
 
-current branch is yigehaoren!
+current branch is action!
