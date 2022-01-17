@@ -1,2 +1,4 @@
 # slowhand
-mainly for amateur development
+mainly for amateur dev
+
+current branch is action!
