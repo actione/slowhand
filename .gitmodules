@@ -1,0 +1,3 @@
+[submodule "external/cocpp"]
+	path = external/cocpp
+	url = https://github.com/skyfireitdiy/cocpp.git
